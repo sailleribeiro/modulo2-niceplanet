@@ -17,4 +17,12 @@ juntamente com a outras paginas, style.CSS e connection.JS <br>
 
 
 <h1> Rotas </h1>
-Criação das rotas para consumir a API, utiizando AJAX
+Criação das rotas para consumir a API, utilizando AJAX
+
+![image](https://user-images.githubusercontent.com/56983572/174455451-90185633-b07f-416f-841c-d2ca27c79075.png)
+
+<h1> Estilização </h1>
+
+criando a estilização da pagina style.CSS 
+
+![image](https://user-images.githubusercontent.com/56983572/174455521-68ea5636-b8db-4151-b445-428fa87f7efe.png)
