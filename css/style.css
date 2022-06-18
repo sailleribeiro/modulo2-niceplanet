@@ -1,0 +1,45 @@
+* {
+    margin: 0cm;
+}
+
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to left, #c1f1d9, #2CD49B);
+}
+
+header {
+    padding: 30px;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+
+}
+
+h2 {
+
+    color: #13c086;
+    font-size: 30px;
+
+}
+
+.tela-de-busca {
+    background-color: white;
+    padding: 10px;
+    width: 1000px;
+    height: 800px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 auto;
+
+}
+
+.botao-buscar {
+
+    height: 50px;
+    width: 50px;
+
+
+}
