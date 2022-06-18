@@ -1,15 +1,15 @@
-class Propriedade {
-    constructor() {
-        Data.forEach(element => {
-            
-        });
+// class Propriedade {
+//     constructor() {
+//         Data.forEach(element => {
 
-    }
+//         });
 
-    buscar() {
-        alert('oioioioi');
-    }
+//     }
 
-}
+//     buscar() {
+//         alert('oioioioi');
+//     }
 
-var propriedade = new Propriedade();
+// }
+
+// var propriedade = new Propriedade();
