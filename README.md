@@ -7,7 +7,7 @@ C:\Users\Ellias\Desktop\modulo2-niceplanet-main
 <h1> Ferramentas utilizadas:</h1> <br>
 Javascript<br>
 CSS<br>
-html5
+HTML
 
 <h1> imports: </h1>
 primeiramente foi criado a index.html para criar o corpo da pagina e fazer a importação da biblioteca query <br>
